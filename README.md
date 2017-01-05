@@ -1,2 +1,5 @@
 # similar_artists
-proves spotify
+
+python3 similar_artists.py > data.txt
+
+
